@@ -1,1 +1,1 @@
-this is initial of chapter2.s
+Chapter 2 is updated in branch sample.
